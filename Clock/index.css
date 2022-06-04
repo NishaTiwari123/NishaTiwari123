@@ -1,0 +1,12 @@
+body{
+				<!-- background-color:#fbceb1; -->
+			}
+			#clock{
+				border:5px solid black;
+				border-radius:100px;
+				margin:200px 300px;
+				text-align:center;
+				width:60%;
+				font-size:150px;
+				background-color:#deb887;
+			}
